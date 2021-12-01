@@ -5,6 +5,7 @@ demo/
 public/
 dist/
 node_modules/
+scripts/
 
 # node 覆盖率文件
 coverage/
