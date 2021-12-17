@@ -47,5 +47,8 @@
   "bugs": {
     "url": "https://github.com/Andesome/selection-handian/issues"
   },
-  "homepage": "https://github.com/Andesome/selection-handian#readme"
+  "homepage": "https://github.com/Andesome/selection-handian#readme",
+  "dependencies": {
+    "nodejieba": "^2.5.2"
+  }
 }
