@@ -16,7 +16,7 @@ module.exports = config => {
     output: {
       file: fileName,
       format: 'umd',
-      name: name || 'YOUR-LIB-NAME'',
+      name: name || 'YOUR-LIB-NAME',
       globals: {
         "YOUR-LIB-NAME": 'YOUR-LIB-NAME',
       }

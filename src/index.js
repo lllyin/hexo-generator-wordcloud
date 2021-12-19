@@ -1,7 +1,2 @@
-import { print } from './utils/print'
-
-function main() {
-  console.log(print('hello word'))
-}
-
-export default main
+// eslint-disable-next-line no-undef
+hexo.extend.generator.register('genwordcloud', require('./lib/generator'))
